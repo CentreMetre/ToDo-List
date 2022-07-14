@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucky\\source\\repos\\CentreMetre\\ToDo List\\ToDo List.csproj": {}
+    "C:\\Users\\lucky\\source\\repos\\ToDo List\\ToDo List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucky\\source\\repos\\CentreMetre\\ToDo List\\ToDo List.csproj": {
+    "C:\\Users\\lucky\\source\\repos\\ToDo List\\ToDo List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucky\\source\\repos\\CentreMetre\\ToDo List\\ToDo List.csproj",
+        "projectUniqueName": "C:\\Users\\lucky\\source\\repos\\ToDo List\\ToDo List.csproj",
         "projectName": "ToDo List",
-        "projectPath": "C:\\Users\\lucky\\source\\repos\\CentreMetre\\ToDo List\\ToDo List.csproj",
+        "projectPath": "C:\\Users\\lucky\\source\\repos\\ToDo List\\ToDo List.csproj",
         "packagesPath": "C:\\Users\\lucky\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucky\\source\\repos\\CentreMetre\\ToDo List\\obj\\",
+        "outputPath": "C:\\Users\\lucky\\source\\repos\\ToDo List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucky\\AppData\\Roaming\\NuGet\\NuGet.Config",
